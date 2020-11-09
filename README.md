@@ -5,7 +5,7 @@ Disclaimer: This is for ethical and/or educational use cases only. I do not cond
 
 ## Background
 During the pandemic, my apartment building books out slots for use of the Gym via Eventbrite, however, these slots open at 9:00am every Monday; 
-I wanted to automate the process of booking these slots (Eventbrite tickets. 
+I wanted to automate the process of booking these slots.
 
 ## Features
 - Scrapes my apartment building's website to get the Eventbrite link for booking gym tickets. 
